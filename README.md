@@ -1,5 +1,5 @@
 # Titanic-Machine-Learning-from-Disaster
-This project is our submission for the Kaggle Titanic competition. In this project, [Sruthi Suresh](https://www.linkedin.com/in/sruthi-suresh-ba4672169/) and I use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+This project is our submission for the Kaggle Titanic competition. In this project, [Sruthi Suresh](https://www.linkedin.com/in/sruthi-suresh-ba4672169/) and I use machine learning to create a model that predicts which passengers survived the Titanic shipwreck. The notebook can be found [here](https://colab.research.google.com/drive/1WUWnzW_GwS_RPCPei9yshAKEBgxTCAq1?usp=sharing).
 
 # Problem Description
 The sinking of the Titanic is one of the most infamous shipwrecks in history.  
